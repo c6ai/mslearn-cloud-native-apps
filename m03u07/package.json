@@ -15,7 +15,7 @@
     "@types/react-dom": "^17.0.5",
     "browserslist": "^4.16.6",
     "caniuse-lite": "^1.0.30001228",
-    "next": "9.5.3",
+    "next": "16.1.7",
     "prisma": "^2.22.1",
     "react": "16.13.1",
     "react-dom": "16.13.1",
